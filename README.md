@@ -1,5 +1,5 @@
-![My Image](ekran1.2.png)
-![My Image](ekran1.3.png)
+![My Image](Ekran1.2.png)
+![My Image](Ekran1.3.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
